@@ -41,5 +41,4 @@ Proje, Maven kullanılarak yapılandırılmıştır. **pom.xml** dosyasında ger
 
 
 # SinemaMusteriKayitSistemi
-# SinemaMusteriSistemi
-# SinemaMusteriSistemi
+
